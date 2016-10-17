@@ -2,13 +2,13 @@ Alex Fosco:
 
 Amara Lovato:
 
-Amy Kintner: An Extremely Brief Talk About Utopian History and Theory
+Amy Kintner:
 
-Ann Wolff: 
+Ann Wolff: Molecules and Modernism: How Technology Inspired Art
 
-Brett Rivers: Botnets & the Intternet of Things
+Brett Rivers:
 
-Caroline Powell:  Eutrophication
+Caroline Powell:
 
 Daniel Rodriguez:
 
@@ -20,16 +20,15 @@ Edilene Cruz:
 
 Eric Wahlgren-Sauro: 
 
-Ethan Bennett: Why You Should Stop Not Giving a Shit About Jazz
+Ethan Bennett:
 
 Jason Conrad:
 
-Jesse Shipley: How to get Google to fix your car.
+Jesse Shipley:
 
 Kyle Heppenstall:
 
-Josh Cohen: 
-  Modern Nuclear Submarines
+Josh Cohen:
 
 Laszlo Balogh:
 
@@ -41,7 +40,7 @@ Molly Brown:
 
 Michael Hill:
 
-Michael Schutte: "What's with the Tomato? Pomodoro Unpacked"
+Michael Schutte:
 
 Nick Erhardt:
 
