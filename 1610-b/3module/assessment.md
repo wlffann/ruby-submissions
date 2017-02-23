@@ -10,7 +10,7 @@
   - Github Repo:
   
 ## Annie  
-  - Github Repo:
+  - Github Repo: https://github.com/wlffann/module_3_assessment
   
 ## Dan  
   - Github Repo: https://github.com/drod1000/module_3_assessment
@@ -31,7 +31,7 @@
   - Github Repo:
 
 ## Nick E
-  - Github Repo:https://github.com/ski-climb/module_3_assessment
+  - Github Repo:
 
 ## Nick G
   - Github Repo:
